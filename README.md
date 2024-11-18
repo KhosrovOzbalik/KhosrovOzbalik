@@ -1,11 +1,11 @@
 # Hüsrev Özbalık
 
-👋 Hello! I'm Hüsrev, a passionate software engineer with expertise in **frontend development**, **game development**, and **DevOps**. I thrive on creating engaging user experiences and solving complex problems with creative solutions.
+👋 Hello! I'm Hüsrev, a passionate software engineer with expertise in **full-stack development** and **game development**. I thrive on creating engaging user experiences and solving complex problems with creative solutions.
 
 ## 🌟 About Me
 
-- 🎓 Computer Engineering student at **Hacettepe University** (2020 - Oct 2025)
-- 💻 Experienced in **React**, **Unity**, **TypeScript**, **C#**, and more.
+- 🎓 Computer Engineering student at **Hacettepe University** 
+- 💻 Experienced in **React**, **Angular**, **Nest.js**, **Unity**, **TypeScript**, **C#**, and more.
 - 🎮 Game enthusiast and developer with several GameJam achievements.
 - 🌱 Currently diving deeper into **Angular**, **Nest.js**, and **VR technologies**.
 
@@ -18,15 +18,15 @@
   Interactive WebGL simulation using MST algorithm for efficient road layouts.
 
 - [**Lucid (PURA GameJam, 3rd Place)**](https://itch.io/jam/pura-gamejam-2022/rate/1376275)  
-  Developed in under 2 days, secured 3rd place in the competition.
+  It was developed in under 2 days, and secured 3rd place in the competition.
 
-... (diğer projelerini ekleriz)
+...
 
 ## 🛠 Skills
 
 - **Languages:** C#, C++, JavaScript, Python, Java
-- **Frameworks & Tools:** React, Unity, Three.js, Blender
-- **Languages:** English (fluent), Turkish (native), Japanese (intermediate)
+- **Frameworks & Tools:** React, Angular, Nest, Express, Unity, Three.js, Blender
+- **Languages:** English, Turkish, Japanese
 
 ## 📫 Connect with Me
 
